@@ -1,2 +1,1 @@
 # Server2
-server
